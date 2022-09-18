@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/drawable/edittext_bg.xml" value="0.1395" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/drawable/ic_cart.xml" value="0.1395" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/drawable/ic_folder.xml" value="0.1395" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1395" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_cart.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_category.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_checkout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_payment.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_product_adapter.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_product_detail.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/activity_search.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/edittext_bg.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/item_cart.xml" value="0.17734375" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/item_categories.xml" value="0.19401709401709402" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/item_product.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/layout/quantity_dialog.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/Ritesh Goyal/AndroidStudioProjects/Xiaomi/app/src/main/res/menu/cart.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
